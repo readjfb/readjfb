@@ -6,7 +6,7 @@
 - 🌱 Interested in things from AI to systems and software development, data science, optimization, medical research, and more
 
 ##### Current Projects
- - 🤖 Foosball robot, VR control system, and battlebot with the Northwestern University Robotics Club
+ - 🤖 Foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
  - 💬 CLI utility to create Python documentation and docstrings using OpenAI's GPT-3
 
 <!--
