@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Jackson 👋
+#### Student @ Northwestern, DevTools intern @ SpotHero
+
+
 
 <!--
 **readjfb/readjfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
