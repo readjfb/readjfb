@@ -1,7 +1,13 @@
-### Hi there! I'm Jackson 👋
-#### Student @ Northwestern, DevTools intern @ SpotHero
+### Hi there! I'm Jackson (he/him/his) 👋
+#### Engineering Student @ Northwestern, DevTools intern @ SpotHero
 
+##### Bio
+- 📓 Major in computer engineering, minors in data science and cognitive science
+- 🌱 Interested in things from AI to systems and software development, optimization, medical research, and more
 
+##### Current Projects
+ - 🤖 Foosball robot, VR control system, and battlebot with the Northwestern University Robotics Club
+ - 💬 CLI utility to create Python documentation and docstrings using OpenAI's GPT-3
 
 <!--
 **readjfb/readjfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
