@@ -3,7 +3,7 @@
 
 ##### Bio
 - 📓 Major in computer engineering, minors in data science and cognitive science
-- 🌱 Interested in things from AI to systems and software development, optimization, medical research, and more
+- 🌱 Interested in things from AI to systems and software development, data science, optimization, medical research, and more
 
 ##### Current Projects
  - 🤖 Foosball robot, VR control system, and battlebot with the Northwestern University Robotics Club
