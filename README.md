@@ -12,7 +12,7 @@
  - 🎶 Graph network dashboard to explore the web of modern music and interconnected artists using Spotify data
  
 ##### Places I've worked
- - 🔧 Interned on DevTools @ Spothero during Summer '22
+ - 🔧 Interned on DevTools @ SpotHero during Summer '22
  - 🦾 Student Research Engineer @ Northwestern's Feinberg School of Medicine from 2019-2021
 
 <!--
