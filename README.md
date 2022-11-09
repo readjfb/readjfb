@@ -7,7 +7,7 @@
 - 💭 Looking to meaningfully improve the lives of others with the latest technology
 
 ##### Current Projects
- - 🤖 Foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
+ - 🤖 Building a foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
  - 💬 CLI utility to create Python documentation and docstrings using OpenAI's GPT-3
  - 🎶 Graph network dashboard to explore the web of modern music and interconnected artists using Spotify data
  
