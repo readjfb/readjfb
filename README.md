@@ -8,7 +8,7 @@
 
 ##### Current Projects
  - 🤖 Building a foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
- - 💬 CLI utility to create Python documentation and docstrings using OpenAI's GPT-3
+ - 💬 CLI utility to create Python documentation and docstrings using OpenAI's GPT-3 Codex
  - 🎶 Graph network dashboard to explore the web of modern music and interconnected artists using Spotify data
  
 ##### Places I've worked
