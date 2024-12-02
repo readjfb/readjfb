@@ -1,4 +1,4 @@
-### Hi there! I'm Jackson (he/him/his) 👋
+### Jackson (he/him/his) 👋
 #### AI + Data Science @ JPMC
 
 ##### Bio
