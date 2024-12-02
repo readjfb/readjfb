@@ -3,6 +3,7 @@
 
 ##### Bio
 - 📓 Majored in computer engineering, dual minors in data science and cognitive science | Graduated from Northwestern University in June 2024
+- Worked as Undergraduate Research Engineer @ Feinberg School of Medicine (Northwestern), DevTools Engineer Intern @ SpotHero, AI + Data Science Analyst @ JPMC
 - 🌱 Interested in topics from AI to systems and software development, data science, optimization, medical research, data governance, and more
 
 ##### Past Projects (on Github)
@@ -10,6 +11,7 @@
  - 🎶 Graph network dashboard to explore the web of modern music and interconnected artists using Spotify data
  - 🎄 Advent of Code
  - Check out more below
+
 
 <!--
 ##### Places I've worked
