@@ -2,9 +2,9 @@
 #### AI + Data Science @ JPMC
 
 ##### Bio
-- 📓 Majored in computer engineering, dual minors in data science and cognitive science | Graduated from Northwestern University in June 2024
-- Worked as Undergraduate Research Engineer @ Feinberg School of Medicine (Northwestern), DevTools Engineer Intern @ SpotHero, AI + Data Science Analyst @ JPMC
-- 🌱 Interested in topics from AI to systems and software development, data science, optimization, medical research, data governance, and more
+- 📓 Majored in computer engineering, dual minors in Data Science and Cognitive Science | Graduated from Northwestern University in June 2024
+- 🔧 Worked as Undergraduate Research Engineer @ Feinberg School of Medicine (Northwestern), DevTools Engineer Intern @ SpotHero, AI + Data Science Analyst @ JPMC
+- 🌱 Interested in topics from AI to systems and software development, data science, low-level optimization, medical research, data governance, and more
 
 ##### Past Projects (on Github)
  - 🤖 Foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
