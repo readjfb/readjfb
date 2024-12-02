@@ -9,7 +9,6 @@
 ##### Past Projects (on Github)
  - 🤖 Foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
  - 🎶 Graph network dashboard to explore the web of modern music and interconnected artists using Spotify data
- - 🎄 Advent of Code
  - Check out more below
 
 
