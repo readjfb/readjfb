@@ -2,15 +2,14 @@
 #### AI + Data Science @ JPMC
 
 ##### Bio
-- 📓 Majored in computer engineering, minors in data science and cognitive science; graduated from Northwestern University in June 2024
-- 🌱 Interested in things from AI to systems and software development, data science, optimization, medical research, and more
-- 💭 Looking to meaningfully improve the lives of others with the latest technology
+- 📓 Majored in computer engineering, dual minors in data science and cognitive science | Graduated from Northwestern University in June 2024
+- 🌱 Interested in topics from AI to systems and software development, data science, optimization, medical research, data governance, and more
 
 ##### Past Projects (on Github)
  - 🤖 Foosball robot, VR control system, and battlebot with the [Northwestern University Robotics Club](http://nuroboticsclub.com)
- - 💬 CLI utility to create Python documentation and docstrings using OpenAI's GPT-3 Codex (Copilot before it was released)
  - 🎶 Graph network dashboard to explore the web of modern music and interconnected artists using Spotify data
  - 🎄 Advent of Code
+ - Check out more below
 
 <!--
 ##### Places I've worked
